@@ -13,16 +13,16 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+OPAS_ETL_PULL/[Dd]ebug/
+OPAS_ETL_PULL/[Dd]ebugPublic/
+OPAS_ETL_PULL/[Rr]elease/
+OPAS_ETL_PULL/[Rr]eleases/
+OPAS_ETL_PULL/x64/
+OPAS_ETL_PULL/x86/
+OPAS_ETL_PULL/bld/
+OPAS_ETL_PULL/[Bb]in/
+OPAS_ETL_PULL/[Oo]bj/
+OPAS_ETL_PULL/[Ll]og/
 
 # Visual Studio 2015 cache/options directory
 .vs/
